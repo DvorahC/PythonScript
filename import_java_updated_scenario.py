@@ -12,7 +12,7 @@ console with pprint
 '''''''''''''''
 
 
-path_to_features = "C:\\Users\\wishtrip\\IdeaProjects\\java-ui-automation-mobile\\src\\test\\java\\cucumber\\features\\*.feature"
+path_to_features = "C:\\Users\\XXXXXXXXXXXX\\features\\*.feature"
 
 
 '''''''''''''''
